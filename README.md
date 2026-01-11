@@ -29,8 +29,6 @@ Here are some ideas to get you started:
 - **R Markdown** 使用深灰色背景 (`#2C3E50`) 和 R 的 logo。
 -->
 
-![github stats](https://github-readme-stats.vercel.app/api?username=gaospecial&show_icons=true&theme=blueberry)
-
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
