@@ -32,3 +32,4 @@ Here are some ideas to get you started:
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+I am a data scientist researching synthetic microbial community (SyntheticCommunity), as well as a R software engineer and an expert in the application of artificial intelligence technology. I live in Wuhan, Hubei, China, and I enjoy singing and tinkering with some quirky things.
